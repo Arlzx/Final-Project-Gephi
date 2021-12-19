@@ -1,0 +1,236 @@
+Id,Label,timeset,category,Degree,modularity_class
+1,Alice Bayley,,Person,10,17
+2,Alice Crouch,,Person,2,17
+3,Abraham King,,Person,1,6
+4,Ann Adams,,Person,1,12
+5,Ann Grayling,,Person,3,10
+6,Ann Gyles,,Person,2,25
+7,Ann Lucket,,Person,1,24
+8,Ann Sargent,,Person,2,10
+9,Anne Carswell 1,,Person,1,18
+10,Anne Carswell 2,,Person,1,25
+11,Barbara Jeake,,Person,1,24
+12,Barbara Hartshorne,,Person,1,24
+13,Bayley,,Family,0,0
+14,Benjamin Carswell,,Person,4,18
+15,Benjamin Meadow,,Person,1,13
+16,Bourn,,Family,0,1
+17,Boyce,,Family,0,2
+18,Carswell,,Family,0,3
+19,Charles Stevens,,Person,1,22
+20,Cooper,,Family,0,4
+21,Corporation of Hastings,,Organization,19,22
+22,Corporation of Winchelsea,,Organization,5,16
+23,Customs,,Organization,28,16
+24,Daniel Bourn,,Person,2,10
+25,Daniel Davis,,Person,1,11
+26,David Denham,,Person,1,19
+27,Dorothy Bluck,,Person,1,9
+28,Edward Grayling 1,,Person,4,9
+29,Edward Grayling 2,,Person,2,15
+30,Edward Hall,,Person,9,22
+31,Edward Hurst,,Person,4,16
+32,Edward Milward 1,,Person,1,22
+33,Edward Sargent,,Person,2,13
+34,Edward Webb,,Person,1,16
+35,Edward Wilson,,Person,2,10
+36,Eleanor Manser,,Person,2,13
+37,Elias Reeve,,Person,1,11
+38,Elizabeth Brattle,,Person,2,19
+39,Elizabeth Hartshorne,,Person,5,24
+40,Elizabeth Luckett 1,,Person,1,6
+41,Elizabeth Luckett 2,,Person,2,6
+42,Elizabeth Moore,,Person,2,17
+43,Elizabeth Patrick,,Person,2,25
+44,Elizabeth Richardson,,Person,2,13
+45,Elizabeth Thorpe,,Person,1,18
+46,Esther Boyce,,Person,1,24
+47,Gyles,,Family,0,5
+48,Henry Parker,,Person,1,15
+49,Henry Sargent 1,,Person,5,19
+50,Henry Sargent 2,,Person,2,19
+51,James Bossom,,Person,1,13
+52,James Dutton,,Person,1,25
+53,James Luckett 1,,Person,2,6
+54,James Luckett 2,,Person,6,15
+55,James Easton,,Person,0,7
+56,James Graham,,Person,1,15
+57,Joan Michell,,Person,3,12
+58,John Addams,,Person,1,12
+59,John Arnold,,Person,4,19
+60,John Baker,,Person,2,16
+61,John Barker,,Person,1,17
+62,John Barry,,Person,6,13
+63,John Bayley,,Person,1,17
+64,John Beale,,Person,1,9
+65,John Bird,,Person,2,19
+66,John Carswell,,Person,0,8
+67,John Collier,,Person,5,14
+68,John Cooper,,Person,1,19
+69,John Crouch,,Person,1,17
+70,John Gawen,,Person,2,13
+71,John Grayling 1,,Person,5,9
+72,John Grayling 2,,Person,3,19
+73,John Hall,,Person,3,22
+74,John Hide 1,,Person,1,16
+75,John Hogben,,Person,1,11
+76,John Laurence,,Person,1,25
+77,John Medhurst,,Person,1,22
+78,John Michell,,Person,5,12
+79,John Oliver,,Person,1,18
+80,John Padgham,,Person,1,14
+81,John Parnell,,Person,2,16
+82,John Russell,,Person,2,12
+83,John Sargent 1,,Person,8,10
+84,John Sargent 2,,Person,1,10
+85,John Savory,,Person,2,19
+86,John Smith 1,,Person,1,14
+87,John Smith 2,,Person,3,14
+88,John Sparrow,,Person,3,15
+89,John Stevens,,Person,2,17
+90,John Waters,,Person,2,10
+91,John Weston,,Person,1,25
+92,John Wood,,Person,1,9
+93,Joseph Cooper 1,,Person,1,11
+94,Joseph Cooper 2,,Person,5,11
+95,Joseph Cooper 3,,Person,8,11
+96,Joseph Grayling,,Person,13,19
+97,Joseph Moore,,Person,1,17
+98,Joseph Pescod,,Person,1,19
+99,Joseph Tucker 1,,Person,2,24
+100,Joseph Tucker 2,,Person,5,24
+101,Katherine Luckett,,Person,3,15
+102,Lewis Gillart,,Person,2,19
+103,Margaret Padgham,,Person,5,14
+104,Margaret Wingfield,,Person,2,12
+105,Mark Bayley 1,,Person,10,13
+106,Mark Bayley 2,,Person,4,13
+107,Mark Bayley 3,,Person,6,13
+108,Mark Sargent 1,,Person,3,13
+109,Mark Sargent 2,,Person,1,16
+110,Marmaduke Sadler,,Person,2,18
+111,Mary Barry,,Person,2,13
+112,Mary Bluck,,Person,3,9
+113,Mary Boyce,,Person,2,24
+114,Mary Collier,,Person,2,14
+115,Mary Grayling 1,,Person,1,9
+116,Mary Grayling 2,,Person,1,15
+117,Mary Hall,,Person,1,22
+118,Mary Kennett,,Person,2,19
+119,Mary Luckett,,Person,1,15
+120,Mary Lunsford,,Person,1,16
+121,Mary Pack,,Person,2,17
+122,Mary Peckham,,Person,1,16
+123,Michael Humphrey,,Person,1,22
+124,Navy,,Organization,1,10
+125,Nathaniel Cruttenden,,Person,1,22
+126,Nicholas Chadderton,,Person,1,15
+127,Nicholas Waters,,Person,2,22
+128,Peter Bourn 1,,Person,1,10
+129,Peter Bourn 2,,Person,3,10
+130,Peter Lavender,,Person,1,18
+131,Philip Lovell,,Person,2,14
+132,Philip Bayley,,Person,1,22
+133,Philip Stevenson,,Person,6,13
+134,Philips Harrison,,Person,1,19
+135,Ralph Killick,,Person,2,22
+136,Richard Amyett,,Person,2,19
+137,Richard Barker,,Person,3,19
+138,Richard Carswell 1,,Person,1,16
+139,Richard Carswell 2,,Person,4,18
+140,Richard Chadderton,,Person,1,13
+141,Richard Chambers,,Person,1,22
+142,Richard Coleman,,Person,2,10
+143,Richard Couchman,,Person,1,19
+144,Richard Grayling 1,,Person,5,19
+145,Richard Grayling 2,,Person,2,20
+146,Richard Hall,,Person,1,25
+147,Richard Halsted,,Person,1,19
+148,Richard Holman,,Person,1,22
+149,Richard Hutcheson,,Person,1,12
+150,Richard Molineux,,Person,1,10
+151,Richard Pack 1,,Person,4,17
+152,Richard Pack 2,,Person,1,17
+153,Richard Plumber,,Person,1,15
+154,Richard Stemp,,Person,1,20
+155,Richard Waters,,Person,3,13
+156,Robert Baker,,Person,0,21
+157,Robert Bartholomew,,Person,2,13
+158,Robert Bluck,,Person,2,9
+159,Robert Grove,,Person,3,19
+160,Robert Lucas,,Person,1,24
+161,Robert Mills,,Person,1,22
+162,Robert Pearce,,Person,1,11
+163,Robert Thatcher,,Person,1,13
+164,Samuel Cant,,Person,1,10
+165,Samuel Cruttenden,,Person,5,17
+166,Samuel Jeake 1,,Person,3,24
+167,Samuel Jeake 2,,Person,3,24
+168,Samuel Jeake 3,,Person,5,24
+169,Samuel Luckett 1,,Person,5,15
+170,Samuel Luckett 2,,Person,1,15
+171,Samuel Moore,,Person,2,18
+172,Samuel Waters 1,,Person,6,13
+173,Samuel Waters 2,,Person,1,13
+174,Sarah Cruttenden,,Person,2,17
+175,Sarah Dutton,,Person,2,25
+176,Sarah Hall,,Person,2,22
+177,Sargent,,Family,0,23
+178,Stephen Sargent,,Person,4,19
+179,Stephen Seal,,Person,2,11
+180,Susanna Humphrey,,Person,2,22
+181,Sussex,,Organization,3,16
+182,Theodosia Waters,,Person,1,10
+183,Thomas Addams,,Person,1,10
+184,Thomas Avann,,Person,1,18
+185,Thomas Bluck,,Person,2,9
+186,Thomas Bourn,,Person,2,19
+187,Thomas Boyce 1,,Person,3,24
+188,Thomas Boyce 2,,Person,6,24
+189,Thomas Carswell,,Person,8,25
+190,Thomas Cooper,,Person,2,22
+191,Thomas Cruttenden,,Person,2,17
+192,Thomas Goodman,,Person,2,9
+193,Thomas Goodwin,,Person,1,19
+194,Thomas Grayling,,Person,8,10
+195,Thomas Gyles,,Person,5,25
+196,Thomas Hurst,,Person,2,16
+197,Thomas Jenkins,,Person,3,16
+198,Thomas Lovell 1,,Person,4,14
+199,Thomas Lovell 2,,Person,3,14
+200,Thomas Lulham,,Person,3,22
+201,Thomas Manington,,Person,1,20
+202,Thomas Marrow,,Person,1,10
+203,Thomas Marten,,Person,7,16
+204,Thomas Mawer,,Person,1,10
+205,Thomas Michell,,Person,2,12
+206,Thomas Morphy,,Person,1,16
+207,Thomas Pack,,Person,1,17
+208,Thomas Powell,,Person,1,11
+209,Thomas Smith,,Person,3,14
+210,Thomas Snow,,Person,2,19
+211,Thomas York,,Person,1,19
+212,Walter Water,,Person,1,11
+213,William Battine,,Person,4,16
+214,William Beard,,Person,2,19
+215,William Bourn 1,,Person,5,16
+216,William Bourn 2,,Person,2,16
+217,William Burgess,,Person,2,22
+218,William Coppard,,Person,3,16
+219,William Cramp,,Person,2,18
+220,William Easton,,Person,2,25
+221,William Foster,,Person,1,9
+222,William Grayling,,Person,5,16
+223,William Gyles,,Person,0,26
+224,William Hurst,,Person,1,16
+225,William Jerman 1,,Person,1,19
+226,William Markwick,,Person,1,15
+227,William Marten,,Person,3,16
+228,William Michell,,Person,1,22
+229,William Richardson,,Person,1,10
+230,William Sansum,,Person,5,15
+231,William Wybourn,,Person,2,11
+232,Wiltshire Slade,,Person,1,11
+233,John Thrope,,Person,2,16
+234,Mary Bourn,,Person,1,10
+235,Richard Patrick,,Person,1,25
